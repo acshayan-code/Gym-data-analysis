@@ -1,1 +1,2 @@
 # Gym-data-analysis
+This analysis shows an application of both data manipulation and visualization via the Python libraries: pandas, matplotlib.pyplot, and seaborn. The purpose of this analysis was to practice cleaining up an exisiting public dataset to be usable by Python, and performing various operations on said data in order to answer a simple question in detail: which form of exercise should you choose in order to burn the most calories.
